@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Manikanta Vinjamuri</h1>
 <h3 align="center">Passionate fullstack developer crafting digital experiences with precision.</h3>
 
-- 🔭 I’m currently working on [https://github.com/mani-2002/pef](https://github.com/mani-2002/pef)
+- 🔭 I’m currently working on [https://github.com/mani-2002/pef](https://github.com/mani-2002/DSA)
 
 - 💬 Ask me about **Web development**
 
